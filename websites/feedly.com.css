@@ -19,6 +19,9 @@ header,
     border 0.5s ease-in-out,
     box-shadow 0.5s ease-in-out !important;
 }
+.RightPanel{
+border-left: none;
+}
 
 /* feedly-No thanks */
 .TZCVJGAQJfvz8bV8MrrA {
