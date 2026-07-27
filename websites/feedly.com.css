@@ -7,6 +7,7 @@ header,
 #feedlyFrame,
 #headerBarFX,
 .TopHeaderBar,
+.FeedlyFrameHeaderBar,
 .LeftnavEmptySpace {
   background-color: transparent !important;
   background: none !important;
