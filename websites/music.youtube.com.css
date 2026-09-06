@@ -3,7 +3,8 @@
   --ts-body-color: #00000000 !important;
 }
 
-body, #guide-wrapper {
+body,
+#guide-wrapper {
   background-color: transparent !important;
   transition: background-color 0.5s ease-in-out !important;
 }
